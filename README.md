@@ -1,4 +1,4 @@
-# Base .gitignore for working out of root of WordPress
+# Base .gitignore for working from root of WordPress
 
 Ideally, you would not work out of the root of a site. However, hosts like WP Engine/Pantheon map git this way.
 
