@@ -16,6 +16,6 @@ You will notice this is a bit cleaner/able to catch more than what is provided b
 * .DS files are caught by the .*
 
 
-*If you have any suggestions or modifications feel free to submit and issue or do a PR.*
+*If you have any suggestions or modifications feel free to submit an issue or do a PR.*
 
 *I cannot take credit for all of this as it was built up from trial/error and from others overtime.*
