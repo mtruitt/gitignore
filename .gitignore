@@ -75,6 +75,10 @@ node_modules/
 wp-content/mu-plugins/local-by-flywheel-demo-urls.php
 
 # wpengine specific
+!.wpengine-conf
+!.wpe-pull-ignore
+!.wpe-push-ignore
+!.wpe-devkit
 .smushit-status
 .gitattributes
 _wpeprivate
